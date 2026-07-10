@@ -1,0 +1,45 @@
+# Build output
+build/
+Debug/
+Release/
+x64/
+Win32/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.recipe
+*.log
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.slnx
+Browse.VC.db
+Browse.VC.db-shm
+Browse.VC.db-wal
+*.suo
+*.wsuo
+DocumentLayout.json
+DocumentLayout.backup.json
+VSWorkspaceState.json
+ProjectSettings.json
+slnx.sqlite
+
+# IntelliSense
+ipch/
+*.ipch
+
+# MSBuild logs
+*.tlog/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Runtime output
+server.log
